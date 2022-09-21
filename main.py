@@ -4,6 +4,6 @@ def close10(x,y):
     elif abs(10-y)>abs(x-10):
             return(y)
     else:
-
-        return("0")
+  
+        return(0)
 
